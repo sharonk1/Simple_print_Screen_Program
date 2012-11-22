@@ -1,0 +1,49 @@
+﻿This application allows to take images of your current screen.
+Auto save button will save the image in the predefined path usually c:\temp
+but it can be changed by clicking the option button.
+Save to directory button will open a save file dialog and allow the user to 
+save the file where he wants.
+
+
+1.0.4
+fixed backround color bug.
+
+1.2.0
+added recording functionality. 
+
+1.2.1
+modifications to recording functionality - abilty to record more then 1 screen
+
+1.3.0
+added file explorer functionality
+
+1.3.1
+added minimize button
+added message if cannot not open option window
+added caption in file explorer window
+
+
+1.4.0
+added change resolution functionalty
+appeareance corrections.
+
+1.4.1
+fixed bug - loading the options.xml after opening a file in file explorer
+
+1.5.0
+added stop recorsing using F10 key.
+added transparent message "prees F10 to stop recording before recording 
+fixed bug -  loading the options.xml after opening a file in file explorer for save button.
+
+1.5.1
+fixed bug with sava button in options panel, the XML was saved in incorect path
+
+1.5.2
+New style
+
+1.5.3
+New style
+
+1.5.4
+message before recording new 
+and refresh modifications
